@@ -23,21 +23,6 @@ This repository covers the following topics:
 - Graphs and Trees
 - Advanced DSA Concepts
 
-## 🚀 Getting Started
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/DSA-Cpp.git
-   ```
-2. Navigate to the directory:
-   ```bash
-   cd DSA-Cpp
-   ```
-3. Compile and run a program:
-   ```bash
-   g++ basics/example.cpp -o example
-   ./example
-   ```
-
 ## 📜 License
 This repository is open-source under the **MIT License**.
 
